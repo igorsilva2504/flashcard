@@ -1,6 +1,6 @@
 criaCartao(
     'Conhecimento gerais',
-    'Qual a maor palavra da lingua portuguesa?',
+    'Qual a maior palavra da lingua portuguesa?',
     'pneumoultramicroscopicossilicovulcanoconiótico'
 
 
